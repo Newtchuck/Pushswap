@@ -7,16 +7,8 @@
 ## Started on  Mon Dec  1 21:58:39 2014 thanh-truc hoang                                                                                                                                                           
 ## Last update Fri Dec 12 10:40:58 2014 thanh-truc hoang                                                                                                                                                           
 ##                                                                                                                                                                                                              ##                                                                                                                                                                                                                 
-## Makefile for  in /home/hoang_t/rendu/CPE_2014_Pushswap                                                                                                                                                          
-##                                                                                                                                                                                                                 
-## Made by thanh-truc hoang                                                                                                                                                                                        
-## Login   <hoang_t@epitech.net>                                                                                                                                                                                   
-##                                                                                                                                                                                                                 
-## Started on  Mon Dec  1 21:58:39 2014 thanh-truc hoang                                                                                                                                                           
-## Last update Fri Dec 12 10:40:58 2014 thanh-truc hoang                                                                                                                                                           
-##                                                                                                                                                                                                                 
 
-EXEC    = push_swap
+NAME    = push_swap
 
 CC      = cc
 
