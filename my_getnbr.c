@@ -8,7 +8,7 @@
 ** Last update Fri Dec 12 10:51:35 2014 thanh-truc hoang                                                                                                                                                           
 */
 
-#include "../include/pushswap.h"
+#include "pushswap.h"
 
 int     my_getnbr(char *str)
 {
