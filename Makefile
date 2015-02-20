@@ -28,10 +28,8 @@ CFLAGS  = -Iinclude             \
 
 SRCS    =  libmy/pushswap.c \
            libmy/my_getnbr.c \
-           libmy/my_putchar.c \
            libmy/my_putnbr.c \
            libmy/sort_out.c \
-           libmy/my_putstr.c \
            libmy/request.c
 
 OBJS    = $(SRCS:.c=.o)
