@@ -18,7 +18,7 @@ CFLAGS  = -Iinclude             \
           -Wextra -Wall -Werror \
           -ansi -pedantic       \
 
-SRCS    =  libmy/pushswap.c \
+SRCS    =  libmy/main.c \
            libmy/my_getnbr.c \
            libmy/my_putnbr.c \
            libmy/sort_out.c \
